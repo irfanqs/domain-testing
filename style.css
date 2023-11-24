@@ -154,7 +154,7 @@ main {
 
 @media only screen and (min-width: 427px) and (max-width: 769px) {
   .qr-container {
-    width: 38%;
+    width: 70%;
     height: 400px;
     overflow: hidden;
   }
